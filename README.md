@@ -1,7 +1,7 @@
 # STATISTICAL-LEARNING-AN-AI-PROJECT
 
 This repository consists of two projects:
-Linear regression vs. nonLinear regression, and k-means vs Hierarchical clustering
+Linear regression vs. nonLinear regression(SUPERVISED LEARNING PROJECT), and k-means vs Hierarchical clustering (UNSUPERVISED LEARNING PROJECT)
 
 I used the boston price dataset from kaggle to instigate the performance between linear and nonLinear regression models
 
